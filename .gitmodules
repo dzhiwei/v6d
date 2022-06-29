@@ -1,33 +1,33 @@
 [submodule "thirdparty/etcd-cpp-apiv3"]
 	path = thirdparty/etcd-cpp-apiv3
-	url = https://github.com/etcd-cpp-apiv3/etcd-cpp-apiv3.git
+	url = https://github.com/dzhiwei/etcd-cpp-apiv3.git
 	shallow = true
 [submodule "thirdparty/pybind11"]
 	path = thirdparty/pybind11
-	url = https://github.com/pybind/pybind11.git
+	url = https://github.com/dzhiwei/pybind11.git
 	shallow = true
 [submodule "thirdparty/cpprestsdk"]
 	path = thirdparty/cpprestsdk
-	url = https://github.com/microsoft/cpprestsdk.git
+	url = https://github.com/dzhiwei/cpprestsdk.git
 	shallow = true
 [submodule "thirdparty/boost-leaf"]
 	path = modules/graph/thirdparty/boost-leaf
-	url = https://github.com/boostorg/leaf.git
+	url = https://github.com/dzhiwei/leaf.git
 	shallow = true
 [submodule "thirdparty/nlohmann-json"]
 	path = thirdparty/nlohmann-json
-	url = https://github.com/nlohmann/json.git
+	url = https://github.com/dzhiwei/json.git
 	shallow = true
 [submodule "thirdparty/intel-tbb"]
 	path = thirdparty/intel-tbb
-	url = https://github.com/oneapi-src/oneTBB.git
+	url = https://github.com/dzhiwei/oneTBB.git
 	shallow = true
 [submodule "thirdparty/jemalloc"]
 	path = thirdparty/jemalloc
-	url = https://github.com/jemalloc/jemalloc.git
+	url = https://github.com/dzhiwei/jemalloc.git
 	shallow = true
 [submodule "thirdparty/ctti"]
 	path = thirdparty/ctti
-	url = https://github.com/Manu343726/ctti.git
+	url = https://github.com/dzhiwei/ctti.git
 	shallow = true
 
